@@ -1,0 +1,51 @@
+{
+  "Customers": [
+    {
+      "name": "matt",
+      "phone number": "6049991111",
+      "Accounts": [
+        {
+          "Account Number": 1,
+          "balance": 477,
+          "transactions": [
+            "+500",
+            "-23",
+            "-25",
+            "-25",
+            "+50"
+          ]
+        },
+        {
+          "Account Number": 2,
+          "balance": 189,
+          "transactions": [
+            "-250",
+            "+50",
+            "-111"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jamie",
+      "phone number": "6041119999",
+      "Accounts": [
+        {
+          "Account Number": 1,
+          "balance": 80,
+          "transactions": [
+            "+333",
+            "-233",
+            "-20"
+          ]
+        },
+        {
+          "Account Number": 2,
+          "balance": 300,
+          "transactions": []
+        }
+      ]
+    }
+  ],
+  "Bank name": "Coast Capital"
+}

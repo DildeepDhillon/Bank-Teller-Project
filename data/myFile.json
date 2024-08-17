@@ -1,0 +1,76 @@
+{
+  "Customers": [
+    {
+      "name": "bobby",
+      "phone number": "6049991111",
+      "Accounts": [
+        {
+          "Account Number": 1,
+          "balance": 477,
+          "transactions": [
+            "+500",
+            "-23",
+            "-25",
+            "-25",
+            "+50"
+          ]
+        },
+        {
+          "Account Number": 2,
+          "balance": 189,
+          "transactions": [
+            "-250",
+            "+50",
+            "-111"
+          ]
+        },
+        {
+          "Account Number": 3,
+          "balance": 333,
+          "transactions": []
+        }
+      ]
+    },
+    {
+      "name": "ben",
+      "phone number": "6041119999",
+      "Accounts": [
+        {
+          "Account Number": 1,
+          "balance": 80,
+          "transactions": [
+            "+333",
+            "-233",
+            "-20"
+          ]
+        },
+        {
+          "Account Number": 2,
+          "balance": 300,
+          "transactions": []
+        },
+        {
+          "Account Number": 3,
+          "balance": 109,
+          "transactions": [
+            "+159",
+            "-50"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bob",
+      "phone number": "6041119999",
+      "Accounts": [{
+        "Account Number": 1,
+        "balance": 197,
+        "transactions": [
+          "-50",
+          "+25"
+        ]
+      }]
+    }
+  ],
+  "Bank name": "New bank"
+}

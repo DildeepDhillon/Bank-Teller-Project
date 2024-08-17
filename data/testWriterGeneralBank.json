@@ -1,0 +1,45 @@
+{
+    "Customers": [
+        {
+            "name": "kary",
+            "phone number": "6041117777",
+            "Accounts": [
+                {
+                    "Account Number": 1,
+                    "balance": 379,
+                    "transactions": [
+                        "+500",
+                        "-33",
+                        "-88"
+                    ]
+                },
+                {
+                    "Account Number": 2,
+                    "balance": 118,
+                    "transactions": [
+                        "+200",
+                        "-18",
+                        "-34",
+                        "-11",
+                        "-19"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nick",
+            "phone number": "6048881111",
+            "Accounts": [{
+                "Account Number": 1,
+                "balance": 159,
+                "transactions": [
+                    "+300",
+                    "-111",
+                    "-12",
+                    "-18"
+                ]
+            }]
+        }
+    ],
+    "Bank name": "My bank"
+}
